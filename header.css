@@ -1,0 +1,25 @@
+.header {
+text-decoration: none;
+display:flex;
+background-color: darkgray;
+justify-content: center;
+height: 100px;
+width: 100%;
+align-items: center;
+}
+
+.header-link {
+    width: 150px;
+    text-align: center;
+    list-style: none;
+    color: white;
+}
+
+.header-text {
+    text-decoration: none;
+    color: white;
+}
+
+.header-text:hover {
+    color: green
+}
